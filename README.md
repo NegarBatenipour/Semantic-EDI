@@ -10,4 +10,4 @@ Please go through these steps:
 6. Run EDIOrderingMessage2016-Order3.py----->input:order3.txt....output:output3.ttl
 7. Repeat these steps for EDIOrderingMessage2003.py
 8. Run SmartClient.py----->input:output1.ttl,output2.ttl,output3.ttl,data.ttl
-9. Finished.
+9. Finish.
