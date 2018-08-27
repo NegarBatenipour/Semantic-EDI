@@ -11,3 +11,4 @@ Please go through these steps:
 7. Repeat these steps for EDIOrderingMessage2003.py
 8. Run SmartClient.py----->input:output1.ttl,output2.ttl,output3.ttl,data.ttl
 9. Finish.
+10. Furthermore, we have uploaded our Report for your consideration.
